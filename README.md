@@ -1,6 +1,10 @@
-# cinco-layouts
+# 🖐🏼 cinco-layouts
 
 A cheatsheet of some css-based responsive layouts. The focus is on flexbox and grid layouts.
+
+## Screenshot
+
+![Screenshot](./cinco-layouts-v1.jpg)
 
 ## CSS Layout Implementations
 
